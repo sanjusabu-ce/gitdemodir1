@@ -1,0 +1,4 @@
+logs/
+*.py
+*.tf
+*.json
